@@ -3,9 +3,9 @@
 Follow this on **[YouTube](https://www.youtube.com/watch?v=nE4b9mW2ym0)**
 
 ### Prerequisites:
-1. Ansible server **[Get Help Here](https://www.youtube.com/watch?v=79xFyOc_eEY)**
-2. Jenkins Server **[Get Help Here](https://www.youtube.com/watch?v=M32O4Yv0ANc)**
-3. Tocmat Server **[Get Help Here](https://www.youtube.com/watch?v=m21nFreFw8A)**
+1. Ansible server 
+2. Jenkins Server 
+3. Tocmat Server 
 
 ### Part-01 Integration Setps
 
