@@ -39,6 +39,6 @@ docker image rm -f <Image_id>
 
 2. Pull your custom image from your docker account
 ```sh
-docker pull valaxy/ubuntu:demo
+docker pull vikas/ubuntu:demo
 ```
 
